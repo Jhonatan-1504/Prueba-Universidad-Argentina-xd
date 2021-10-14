@@ -1,0 +1,21 @@
+body {
+  background-color: rgb(3, 3, 17);
+  color: #fff;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 1.3rem;
+}
+
+button {
+  cursor: pointer;
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+  font-size: 1rem;
+  font-weight: 600;
+  color: #fff;
+  border: 1px solid rgb(20, 20, 102);
+  background-color: rgb(20, 20, 99);
+}
+
+button:hover {
+  background-color: rgb(20, 20, 110);
+}
